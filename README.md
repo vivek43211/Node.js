@@ -10,6 +10,8 @@ ls = to print the all list of files in repective dierctory
 type nul > filename.js = new file creation 
 <br>
 double tab  = informaton about package in node js 
+<br>
+up arrow =  for previous command 
 <hr>
 # Package.json contain the dev dependencies and package lock.json have tree dependencies 
 npm init = to create the package.file or package.json , this is important for project 
